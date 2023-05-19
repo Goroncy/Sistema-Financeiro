@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/01 10:11:38.000.619,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/01 10:27:26.000.008,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/01 10:30:20.000.299,=D:\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/01 10:35:46.000.663,D:\Projects\Unit2.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit2.pas</Transaction>
+    <Transaction>2023/05/01 10:35:46.000.663,D:\Projects\Unit2.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit2.dfm</Transaction>
+    <Transaction>2023/05/01 10:35:51.000.758,D:\Projects\Unit1.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit1.pas</Transaction>
+    <Transaction>2023/05/01 10:35:51.000.758,D:\Projects\Unit1.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit1.dfm</Transaction>
+    <Transaction>2023/05/01 11:00:37.000.423,D:\Projects\Project1.dproj=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Project1.dproj</Transaction>
+    <Transaction>2023/05/01 13:14:29.000.843,=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit3.pas</Transaction>
+    <Transaction>2023/05/01 13:15:39.000.732,=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit4.pas</Transaction>
+    <Transaction>2023/05/01 13:33:00.000.362,=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit4.pas</Transaction>
+    <Transaction>2023/05/01 13:40:42.000.377,=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit5.pas</Transaction>
+    <Transaction>2023/05/01 13:44:08.000.919,=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit6.pas</Transaction>
+    <Transaction>2023/05/01 20:17:30.000.650,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Home.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit1.dfm</Transaction>
+    <Transaction>2023/05/01 20:17:30.000.650,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Home.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit1.pas</Transaction>
+    <Transaction>2023/05/01 20:17:38.000.659,C:\Users\joao_\OneDrive\Área de Trabalho\Project\ContaClass.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit6.pas</Transaction>
+    <Transaction>2023/05/01 20:17:53.000.457,C:\Users\joao_\OneDrive\Área de Trabalho\Project\CadastrarConta.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit2.pas</Transaction>
+    <Transaction>2023/05/01 20:17:53.000.457,C:\Users\joao_\OneDrive\Área de Trabalho\Project\CadastrarConta.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit2.dfm</Transaction>
+    <Transaction>2023/05/01 20:18:04.000.475,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Creditar.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit3.dfm</Transaction>
+    <Transaction>2023/05/01 20:18:04.000.475,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Creditar.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit3.pas</Transaction>
+    <Transaction>2023/05/01 20:18:12.000.099,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Consultar.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit4.pas</Transaction>
+    <Transaction>2023/05/01 20:18:12.000.099,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Consultar.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit4.dfm</Transaction>
+    <Transaction>2023/05/01 20:18:18.000.148,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Debitar.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit5.pas</Transaction>
+    <Transaction>2023/05/01 20:18:18.000.148,C:\Users\joao_\OneDrive\Área de Trabalho\Project\Debitar.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Project\Unit5.dfm</Transaction>
+    <Transaction>2023/05/02 23:05:51.000.574,D:\Delphi\goton\Delphi\Consultar.dfm=D:\Delphi\goton\Delphi\frmConta.dfm</Transaction>
+    <Transaction>2023/05/02 23:05:51.000.574,D:\Delphi\goton\Delphi\Consultar.pas=D:\Delphi\goton\Delphi\frmConta.pas</Transaction>
+    <Transaction>2023/05/03 21:13:47.000.067,C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\CadastrarConta.pas=</Transaction>
+    <Transaction>2023/05/03 21:30:30.000.266,C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\frmConta.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Conta.dfm</Transaction>
+    <Transaction>2023/05/03 21:30:30.000.266,C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\frmConta.pas=C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Conta.pas</Transaction>
+    <Transaction>2023/05/03 21:31:56.000.777,C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Conta.oas=C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Conta.oas</Transaction>
+    <Transaction>2023/05/03 21:31:56.000.777,C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Conta.dfm=C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Conta.dfm</Transaction>
+    <Transaction>2023/05/03 23:18:21.000.574,C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Project1.dproj=C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Financeiro.dproj</Transaction>
+    <Transaction>2023/05/03 23:18:34.000.575,C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\Financeiro.dproj=C:\Users\joao_\OneDrive\Área de Trabalho\Financeiro\Delphi-main\SistemaFinanceiro.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Home.pas"/>
+    <File Path="Home.dfm"/>
+    <File Path="Creditar.pas"/>
+    <File Path="Creditar.dfm"/>
+    <File Path="Conta.pas"/>
+    <File Path="Conta.dfm"/>
+    <File Path="Debitar.pas"/>
+    <File Path="Debitar.dfm"/>
+    <File Path="ContaClass.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
