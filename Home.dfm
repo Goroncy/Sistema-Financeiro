@@ -145,61 +145,35 @@ object fHome: TfHome
     0FE18FC007F10FC003F01F8463F81F8C63F81F8C63F81FFC03F81FE003F81FC0
     07F81FC07FF81F8463F81F8C63F81F8463F80FC003F08FC007F187E00FF1C3FC
     7FC3C1FC7FC7E0FC7FC7F07FFE3FF81FF83FFC00003FFF0000FFFFC003FF}
+  Menu = MainMenu1
   OldCreateOrder = False
   Position = poScreenCenter
   PixelsPerInch = 96
   TextHeight = 13
-  object lHomeTitulo: TLabel
-    Left = 8
-    Top = 8
-    Width = 222
-    Height = 33
-    Caption = 'Sistema Financeiro'
-    Font.Charset = DEFAULT_CHARSET
-    Font.Color = clWindowText
-    Font.Height = -27
-    Font.Name = 'Tahoma'
-    Font.Style = []
-    ParentFont = False
-  end
-  object bCadastrarConta: TButton
-    Left = 8
-    Top = 60
-    Width = 137
-    Height = 32
-    Cursor = crHandPoint
-    Caption = 'Cadastrar nova conta'
-    TabOrder = 0
-    OnClick = bCadastrarContaClick
-  end
-  object bConsultarConta: TButton
-    Left = 8
-    Top = 98
-    Width = 137
-    Height = 32
-    Cursor = crHandPoint
-    Caption = 'Contas Cadastradas'
-    TabOrder = 1
-    OnClick = bConsultarContaClick
-  end
-  object bCreditar: TButton
-    Left = 8
-    Top = 136
-    Width = 137
-    Height = 32
-    Cursor = crHandPoint
-    Caption = 'Creditar saldo em conta'
-    TabOrder = 2
-    OnClick = bCreditarClick
-  end
-  object bDebitar: TButton
-    Left = 8
-    Top = 174
-    Width = 137
-    Height = 32
-    Cursor = crHandPoint
-    Caption = 'Debitar saldo da conta'
-    TabOrder = 3
-    OnClick = bDebitarClick
+  object MainMenu1: TMainMenu
+    Left = 304
+    Top = 200
+    object Cadastrarconta1: TMenuItem
+      Caption = 'Contas'
+      object Cadastrarnovaconta1: TMenuItem
+        Caption = 'Cadastrar nova conta'
+        OnClick = menuCadastrarContaClick
+      end
+      object ContasCadastradas1: TMenuItem
+        Caption = 'Contas Cadastradas'
+        OnClick = menuContasCadastradasClick
+      end
+    end
+    object Operaes1: TMenuItem
+      Caption = 'Opera'#231#245'es'
+      object Creditarsaldoemconta1: TMenuItem
+        Caption = 'Creditar saldo em conta'
+        OnClick = menuCreditarClick
+      end
+      object Debitarsaldoemconta1: TMenuItem
+        Caption = 'Debitar saldo em conta'
+        OnClick = menuDebitarClick
+      end
+    end
   end
 end
